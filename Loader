@@ -1,0 +1,17 @@
+getgenv().Games = {
+    [105483453326837] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/RS",
+    [115822424270425] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/RAF",
+    [124387865885397] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/MB",
+    [87363544075871] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/ISSC",
+    [89726090098716] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/GE",
+    [102251914603434] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/FAS",
+    [125723653259639] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/DrillDiggingSim",
+    [79105434141915] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/DE",
+    [140394439509533] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/CF",
+}
+
+local id = game.PlaceId
+local url = getgenv().Games[id]
+if url then
+    loadstring(game:HttpGet(url))()
+end
