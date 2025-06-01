@@ -8,7 +8,7 @@ getgenv().Games = {
     [125723653259639] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/DrillDiggingSim",
     [79105434141915] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/DE",
     [140394439509533] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/CF",
-    [126884695634066] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/GAG",
+    [120045356211257] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/SAA",
 }
 
 local id = game.PlaceId
