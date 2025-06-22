@@ -10,6 +10,7 @@ getgenv().Games = {
     [140394439509533] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/CF",
     [120045356211257] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/SAA",
     [121864768012064] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/FishIt",
+    [94503612388426] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/BeFish",
 }
 
 local id = game.PlaceId
