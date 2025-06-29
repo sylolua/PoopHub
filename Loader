@@ -16,6 +16,7 @@ getgenv().Games = {
     [86757987326668] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/KillerStairs",
     [72515236628292] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/FlyToSpace",
     [135972219403244] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/BreedingRanch",
+    [113995904598360] = "https://www.roblox.com/games/113995904598360/Steal-Anime",
 }
 
 local id = game.PlaceId
