@@ -1,14 +1,9 @@
 getgenv().Games = {
-    [105483453326837] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/RS",
     [115822424270425] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/RAF",
     [124387865885397] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/MB",
     [87363544075871] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/ISSC",
     [89726090098716] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/GE",
-    [102251914603434] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/FAS",
     [125723653259639] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/DrillDiggingSim",
-    [79105434141915] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/DE",
-    [140394439509533] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/CF",
-    [120045356211257] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/SAA",
     [121864768012064] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/FishIt",
     [94503612388426] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/BeFish",
     [112678615086652] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/RideRace",
@@ -17,6 +12,7 @@ getgenv().Games = {
     [72515236628292] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/FlyToSpace",
     [135972219403244] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/BreedingRanch",
     [113995904598360] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/StealAnime",
+    [17094607279] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/ObbyWalls",
 }
 
 local id = game.PlaceId
