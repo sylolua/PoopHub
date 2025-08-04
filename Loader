@@ -17,6 +17,7 @@ getgenv().Games = {
     [70884301843006] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/UFG",
     [98204737072765] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/UFG",
     [111770699964440] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/DalgonaTycoon",
+    [117957332897543] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/TrapAndBait",
 }
 
 local id = game.PlaceId
