@@ -21,6 +21,7 @@ getgenv().Games = {
     [136003210253823] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/StopTheTrainSim",
     [75948699874267] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/DropaPoop",
     [133781619558477] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/StealaKPopDemonHunter",
+    [82321750197896] = "https://raw.githubusercontent.com/sylolua/mine/refs/heads/main/PoopaBrainrot",
 }
 
 local id = game.PlaceId
